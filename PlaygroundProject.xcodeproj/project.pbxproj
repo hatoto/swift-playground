@@ -17,6 +17,8 @@
 /* Begin PBXFileReference section */
 		61357AE01DB0AFCD0042B7EC /* homework01.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = homework01.playground; sourceTree = "<group>"; };
 		61564BC11DB1ED87006ABEB9 /* homework_03.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = homework_03.playground; sourceTree = "<group>"; };
+		61564BC31DB316FA006ABEB9 /* homework_05.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = homework_05.playground; sourceTree = "<group>"; };
+		61564BC41DB31763006ABEB9 /* homework_04_1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = homework_04_1.playground; sourceTree = "<group>"; };
 		6156A87F1DB1501B00D3A89D /* homework01_1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = homework01_1.playground; sourceTree = "<group>"; };
 		6156A8801DB1537900D3A89D /* howework_02.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = howework_02.playground; sourceTree = "<group>"; };
 		61B7D5841DAFBCE80073BF38 /* PlaygroundProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PlaygroundProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -28,6 +30,9 @@
 		61B7D5931DAFBCE80073BF38 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		61B7D59A1DAFBD3E0073BF38 /* play01.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = play01.playground; sourceTree = "<group>"; };
 		61B7D59B1DAFC5670073BF38 /* play02.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = play02.playground; sourceTree = "<group>"; };
+		61BC4C171DB319FF00B1C2F1 /* homework_04.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = homework_04.playground; sourceTree = "<group>"; };
+		61D26BB11DB4623D0094D27E /* homework_temperature.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = homework_temperature.playground; sourceTree = "<group>"; };
+		61D26BB21DB464490094D27E /* homework_return_tuple.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = homework_return_tuple.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +85,11 @@
 				6156A87F1DB1501B00D3A89D /* homework01_1.playground */,
 				6156A8801DB1537900D3A89D /* howework_02.playground */,
 				61564BC11DB1ED87006ABEB9 /* homework_03.playground */,
+				61564BC31DB316FA006ABEB9 /* homework_05.playground */,
+				61564BC41DB31763006ABEB9 /* homework_04_1.playground */,
+				61BC4C171DB319FF00B1C2F1 /* homework_04.playground */,
+				61D26BB11DB4623D0094D27E /* homework_temperature.playground */,
+				61D26BB21DB464490094D27E /* homework_return_tuple.playground */,
 			);
 			name = playgrounds;
 			path = PlaygroundProject;
