@@ -17,7 +17,5 @@ func evenAndOdd(array: [Int]) -> (even: [Int], odd: [Int] ) {
 }
 
 var result = evenAndOdd(array: [1,4,91,63,67,3,86,34,2,23,8])
-
-result.even
-result.odd
+    esult.odd
 
