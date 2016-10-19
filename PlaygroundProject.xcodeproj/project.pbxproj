@@ -27,6 +27,11 @@
 		6186F3441DB4F63000329377 /* play06_optional.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = play06_optional.playground; sourceTree = "<group>"; };
 		6186F3451DB4FCDE00329377 /* homework_06.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = homework_06.playground; sourceTree = "<group>"; };
 		6186F3461DB4FF8100329377 /* homework_07.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = homework_07.playground; sourceTree = "<group>"; };
+		6186F3471DB504E700329377 /* play07_funciton.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = play07_funciton.playground; sourceTree = "<group>"; };
+		6186F3481DB5064F00329377 /* play08_function.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = play08_function.playground; sourceTree = "<group>"; };
+		6186F3491DB5082C00329377 /* play09_functionOptional.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = play09_functionOptional.playground; sourceTree = "<group>"; };
+		6186F34C1DB5091000329377 /* play10_print.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = play10_print.playground; sourceTree = "<group>"; };
+		6186F34D1DB50C4100329377 /* play11_class.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = play11_class.playground; sourceTree = "<group>"; };
 		61B7D5841DAFBCE80073BF38 /* PlaygroundProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PlaygroundProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		61B7D5871DAFBCE80073BF38 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		61B7D5891DAFBCE80073BF38 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -37,6 +42,7 @@
 		61B7D59A1DAFBD3E0073BF38 /* play01.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = play01.playground; sourceTree = "<group>"; };
 		61B7D59B1DAFC5670073BF38 /* play02.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = play02.playground; sourceTree = "<group>"; };
 		61BC4C171DB319FF00B1C2F1 /* homework_04.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = homework_04.playground; sourceTree = "<group>"; };
+		61C786531DB5107A0007B352 /* play12_chain.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = play12_chain.playground; sourceTree = "<group>"; };
 		61D26BB11DB4623D0094D27E /* homework_temperature.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = homework_temperature.playground; sourceTree = "<group>"; };
 		61D26BB21DB464490094D27E /* homework_return_tuple.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = homework_return_tuple.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -52,6 +58,24 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		6186F34B1DB508E100329377 /* homeworks_A */ = {
+			isa = PBXGroup;
+			children = (
+				61564BC11DB1ED87006ABEB9 /* homework_03.playground */,
+				61564BC41DB31763006ABEB9 /* homework_04_1.playground */,
+				61BC4C171DB319FF00B1C2F1 /* homework_04.playground */,
+				61564BC31DB316FA006ABEB9 /* homework_05.playground */,
+				6186F3451DB4FCDE00329377 /* homework_06.playground */,
+				6186F3461DB4FF8100329377 /* homework_07.playground */,
+				61D26BB21DB464490094D27E /* homework_return_tuple.playground */,
+				61D26BB11DB4623D0094D27E /* homework_temperature.playground */,
+				6156A87F1DB1501B00D3A89D /* homework01_1.playground */,
+				61357AE01DB0AFCD0042B7EC /* homework01.playground */,
+				6156A8801DB1537900D3A89D /* howework_02.playground */,
+			);
+			name = homeworks_A;
+			sourceTree = "<group>";
+		};
 		61B7D57B1DAFBCE80073BF38 = {
 			isa = PBXGroup;
 			children = (
@@ -85,23 +109,19 @@
 		61B7D5991DAFBCF80073BF38 /* playgrounds */ = {
 			isa = PBXGroup;
 			children = (
-				61564BC11DB1ED87006ABEB9 /* homework_03.playground */,
-				61564BC41DB31763006ABEB9 /* homework_04_1.playground */,
-				61BC4C171DB319FF00B1C2F1 /* homework_04.playground */,
-				61564BC31DB316FA006ABEB9 /* homework_05.playground */,
-				6186F3451DB4FCDE00329377 /* homework_06.playground */,
-				6186F3461DB4FF8100329377 /* homework_07.playground */,
-				61D26BB21DB464490094D27E /* homework_return_tuple.playground */,
-				61D26BB11DB4623D0094D27E /* homework_temperature.playground */,
-				6156A87F1DB1501B00D3A89D /* homework01_1.playground */,
-				61357AE01DB0AFCD0042B7EC /* homework01.playground */,
-				6156A8801DB1537900D3A89D /* howework_02.playground */,
+				6186F34B1DB508E100329377 /* homeworks_A */,
 				61B7D59A1DAFBD3E0073BF38 /* play01.playground */,
 				61B7D59B1DAFC5670073BF38 /* play02.playground */,
 				6186F3411DB4ED8E00329377 /* play03_caselet.playground */,
 				6186F3421DB4F06800329377 /* play04_loop.playground */,
 				6186F3431DB4F24F00329377 /* play05.playground */,
 				6186F3441DB4F63000329377 /* play06_optional.playground */,
+				6186F3471DB504E700329377 /* play07_funciton.playground */,
+				6186F3481DB5064F00329377 /* play08_function.playground */,
+				6186F3491DB5082C00329377 /* play09_functionOptional.playground */,
+				6186F34C1DB5091000329377 /* play10_print.playground */,
+				6186F34D1DB50C4100329377 /* play11_class.playground */,
+				61C786531DB5107A0007B352 /* play12_chain.playground */,
 			);
 			name = playgrounds;
 			path = PlaygroundProject;
